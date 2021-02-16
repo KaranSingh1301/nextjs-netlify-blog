@@ -32,3 +32,10 @@ yarn-error.log*
 
 # mdx
 .mdx-data
+
+node_modules
+.next
+build
+.env
+.env*.local
+.vscode
